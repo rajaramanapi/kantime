@@ -1,0 +1,15 @@
+
+#Overview#
+KanTime is a cloud-based enterprise software solution designed to streamline operations for 
+post-acute healthcare providers, including home health, hospice, pediatric, and personal care services. 
+It offers end-to-end workflow automation that supports compliance, clinical documentation, 
+scheduling, billing, and mobile access for field staff.
+
+#Targeted Users#
+KanTime is used by agency administrators, schedulers, nurses, therapists, billing teams, 
+and compliance officers to deliver coordinated, high-quality patient care while 
+maintaining operational excellence.
+
+##Key benefits##
+ 1. ** Point-of-Care Documentation**: Clinicians can document patient visits in real-time 
+ using KanTime's mobile-friendly interface, which supports both online and offline modes.
